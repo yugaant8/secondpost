@@ -1,0 +1,18 @@
+---
+title: Kaggle Project
+author: Yugaant Ahuja
+date: '2018-06-14'
+slug: second-new-post
+categories: []
+tags: []
+---
+
+``` {r kaggle, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+During my data science course at IXperience, South Africa, I had the opportunty to create a model for the Kaggle Project, "Home Risk....". 
+
+
+
+```{r data, include=FALSE}
